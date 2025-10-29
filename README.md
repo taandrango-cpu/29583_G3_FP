@@ -3,3 +3,4 @@ Buenos Dias Ing. Jenny Ruiz
 - Andrango Tobias
 - Jair Guerrero
 - Emily Guambo
+- Daniel Iza
